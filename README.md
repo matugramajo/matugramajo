@@ -12,3 +12,7 @@ Me enorgullece haber obtenido mi título como Técnica en Programación con un p
 
 🚀 Objetivo:
 Mi objetivo es contribuir a proyectos innovadores y desafiantes, aportando mi experiencia en desarrollo backend y continuando mi crecimiento en el campo de la ingeniería de software.
+
+🌐 Dónde Contactarme:
+✉️ Email: matildegramajo@hotmail.com
+📎 LinkedIn: https://www.linkedin.com/in/matilde-gramajo-3154791ba/
