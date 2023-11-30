@@ -1,5 +1,5 @@
 👋 ¡Hola, soy Matilde!
-Soy una apasionada desarrolladora backend con un enfoque especializado en tecnologías como .NET y SQL. Me egre´se como Técnica en Programación en el 2021. Actualmente, estoy cursando mi primer año de Ingeniería en Sistemas en la UTN.
+Soy una apasionada desarrolladora backend con un enfoque especializado en tecnologías como .NET y SQL. Me egresé como Técnica en Programación en el 2021. Actualmente, estoy cursando mi primer año de Ingeniería en Sistemas en la UTN.
 
 💼 Experiencia:
 Durante mi trayectoria, he abordado desafíos significativos en el desarrollo de aplicaciones backend. Mi enfoque es crear soluciones eficientes y escalables que impulsen el rendimiento de las aplicaciones.
