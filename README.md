@@ -11,7 +11,6 @@ Me desenvuelvo con destreza en C#, ASP.NET, y SQL Server, lo que me permite dise
 Mi objetivo es contribuir a proyectos innovadores y desafiantes, aportando mi experiencia en desarrollo backend y continuando mi crecimiento en el campo de la ingeniería de software.
 
 🌐 Dónde Contactarme:
-✉️ Email: matildegramajo@hotmail.com
 📎 LinkedIn: https://www.linkedin.com/in/matildegramajo/
 
 [![An image of @matugramajo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/matugramajo)](https://holopin.io/@matugramajo)
